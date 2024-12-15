@@ -2,7 +2,7 @@
 // matrixify.c
 // Author: Lorenzo Wyman
 // Date: 10/25/2024
-// Class: COP 3223, Professor Parra
+// 
 // Purpose: This program prints a specific message to the
 // command line. The main purpose of this assignment is to
 // check and see whether I can connect to the Codespaces Server.
